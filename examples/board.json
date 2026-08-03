@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "title": "准备今天的视频",
+      "status": "in_progress",
+      "next_action": "确认唯一主张并录制样片",
+      "blocker": null,
+      "approval_needed": null
+    },
+    {
+      "title": "检查自动化失败提醒",
+      "status": "blocked",
+      "next_action": "确认失败通知发送到哪里",
+      "blocker": "通知渠道尚未配置",
+      "approval_needed": "选择通知渠道"
+    },
+    {
+      "title": "归档上周素材",
+      "status": "done",
+      "next_action": null,
+      "blocker": null,
+      "approval_needed": null
+    }
+  ]
+}
