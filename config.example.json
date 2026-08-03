@@ -1,0 +1,11 @@
+{
+  "timezone": "Asia/Shanghai",
+  "max_top_items": 3,
+  "max_chars": 500,
+  "sources": {
+    "board": "examples/board.json",
+    "course": "examples/course.json",
+    "anomalies": "examples/anomalies.json"
+  },
+  "output_dir": "output"
+}
